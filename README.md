@@ -1,4 +1,4 @@
-# CIS126_Unit1_GE1
+# C Calculator
 
 int main()
 {
